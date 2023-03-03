@@ -8,5 +8,4 @@ const yourMajor : String = "Computer Science";
 let classification : String = "Junior";
 let oneExcite : String = "I am excited to learn more about HTML and CSS.";
 let anyConcerns : String = "I am a bit worried about the pace.";
-let funFact : String = "I own two chickens.";
-  
+let funFact : String = "I own two chickens.";  
